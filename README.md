@@ -54,3 +54,7 @@ This is the AWS Bedrock service main page
 
 ## 6. Assestment and deployment
 
+### 6.1. Model evaluation
+
+
+### 6.2. Provisioned Throughput
