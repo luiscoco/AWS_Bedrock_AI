@@ -7,6 +7,10 @@ Amazon Bedrock is a fully managed service that makes FMs from leading AI startup
 With Bedrock's serverless experience, you can get started quickly, privately customize FMs with your own data, and easily integrate and deploy them into your applications using the AWS tools without having to 
 manage any infrastructure
 
+**Choice of foundation models from leading AI startups and Amazon**
+
+![image](https://github.com/luiscoco/AWS_Bedrock_AI/assets/32194879/ed422d24-1a28-4d2e-a479-0237824f7f07)
+
 ## How to start using Amazpn Bedrock?
 
 We first look for this AWS service in internet
