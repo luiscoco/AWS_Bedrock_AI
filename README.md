@@ -58,3 +58,14 @@ This is the AWS Bedrock service main page
 
 
 ### 6.2. Provisioned Throughput
+
+## 7. Other options
+
+### 7.1. Model access
+
+### 7.2. Settings
+
+### 7.3. User guide
+
+
+### 7.4. Bedrock Service Terms
