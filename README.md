@@ -16,3 +16,41 @@ This is the AWS Bedrock service main page
 
 ![image](https://github.com/luiscoco/AWS_Bedrock_AI/assets/32194879/23a688f7-557c-4403-bdd6-49e5bada22ce)
 
+## 1. Getting started menu
+
+### 1.1. Overview
+
+
+### 1.2. Examples
+
+
+### 1.3. Providers
+
+## 2. Foundation models
+
+### 2.1. Base models
+
+### 2.1. Custom models
+
+## 3. Playgrounds
+
+### 3.1. Chat
+
+### 3.2. Text
+
+
+### 3.3. Image
+
+
+## 4. Safeguards
+
+
+## 5. Orchestration
+
+### 5.1. Knowledge base
+
+
+### 5.2. Agents
+
+## 6. Assestment and deployment
+
